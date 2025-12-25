@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SneakerStore - Premium Footwear",
+  "description": "A feature-rich e-commerce application for premium sneakers featuring product browsing, detailed views, cart management, and news updates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
